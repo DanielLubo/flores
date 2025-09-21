@@ -254,7 +254,7 @@ body {
     height: 50px;
     display: block;
     background-size: cover; /* para que la imagen se ajuste */
-    opacity: 0.3;
+    opacity: 0.1;
 }
 
 
